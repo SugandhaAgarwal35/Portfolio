@@ -6,8 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'Aspiring Data Scientist',
     'AI & ML Enthusiast',
     'Big Data Explorer',
-    'NLP Developer',
-    'Full-Stack Tinkerer'
+    'Full-Stack Developer in the Making'
   ];
   let phraseIdx = 0, charIdx = 0, isDeleting = false;
 
